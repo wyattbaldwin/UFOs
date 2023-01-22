@@ -5,7 +5,6 @@ This project is focused on organizing UFO data and giving users the ability to f
 
 ## Results
 In the Filter Search section of the website, there are 5 filters that are connected to the table. When the user types into the filters and presses enter, they are able to see the table with the selected filters as shown in Figure 1. Users are also able to select multiple filters at the same time as shown in Figure 2.
-
 <img src="https://github.com/wyattbaldwin/UFOs/blob/main/Buffalo.PNG?raw=true">
 Figure 1. Using the website showing only the filters for the city of buffalo and showing the dataset for the filter.
 
