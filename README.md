@@ -6,11 +6,11 @@ This project is focused on organizing UFO data and giving users the ability to f
 ## Results
 In the Filter Search section of the website, there are 5 filters that are connected to the table. When the user types into the filters and presses enter, they are able to see the table with the selected filters as shown in Figure 1. Users are also able to select multiple filters at the same time as shown in Figure 2.
 
-
+<img src="https://github.com/wyattbaldwin/UFOs/blob/main/Buffalo.PNG?raw=true">
 Figure 1. Using the website showing only the filters for the city of buffalo and showing the dataset for the filter.
 
-
-Figure 2. Using the website showing 2 filters being used for the state of california and the shape is light.
+<img src="https://github.com/wyattbaldwin/UFOs/blob/main/2Filters.PNG?raw=true">
+Figure 2. Using the website showing 2 filters being used for the state of florida and the shape is fireball.
 
 ## Drawbacks and Recommendations
 One drawback of this new design is that if there were thousands of data for a value in the table, it would take a while to load the first filter of the table. For example, if the user wanted to filter for the city bonita and the duration of the UFO sighting, but there were a lot of sightings at bonita, it would take a while for the website to load the filter because there would be a lot to filter for.
